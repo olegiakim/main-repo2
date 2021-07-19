@@ -7,3 +7,5 @@ Ice coffe 2.88 300cal
 
 Lunch menu:
 butter chicken 10.99 1200 cal
+
+Salad 5.89  100 cal
